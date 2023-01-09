@@ -5,3 +5,4 @@ updates:
     schedule:
       interval: "daily"
       time: "00:22"
+      timezone: "Europe/Belfast"
